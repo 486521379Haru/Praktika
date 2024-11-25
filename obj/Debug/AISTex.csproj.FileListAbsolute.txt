@@ -86,3 +86,25 @@ C:\Users\Haru\Desktop\AISTex\bin\Debug\EntityFramework.xml
 C:\Users\Haru\Desktop\AISTex\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Haru\Desktop\AISTex\bin\Debug\System.Data.SQLite.xml
 C:\Users\Haru\Desktop\AISTex\obj\Debug\AISTex.csproj.Up2Date
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\x86\sqlite3.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\x64\sqlite3.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\AISTex.exe.config
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\AISTex.exe
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\AISTex.pdb
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\EntityFramework.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\System.Data.SQLite.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\EntityFramework.xml
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Haru\Desktop\AISTex со входом\bin\Debug\System.Data.SQLite.xml
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.csproj.AssemblyReference.cache
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.AddEmployeeForm.resources
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.enter.resources
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.Properties.Resources.resources
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.csproj.GenerateResource.cache
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.csproj.CoreCompileInputs.cache
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.csproj.Up2Date
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.exe
+C:\Users\Haru\Desktop\AISTex со входом\obj\Debug\AISTex.pdb

@@ -16,7 +16,7 @@ namespace AISTex
             DatabaseInitializer dbInitializer = new DatabaseInitializer();
             dbInitializer.InitializeDatabase();
             Console.WriteLine("База данных инициализирована.");
-            Application.Run(new AddEmployeeForm());
+            Application.Run(new enter());
         }
     }
 }
